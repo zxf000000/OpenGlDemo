@@ -1,8 +1,8 @@
 //
 //  main.m
-//  OpenGlDemo
+//  OpenGLDemo
 //
-//  Created by mr.zhou on 2018-12-09.
+//  Created by mr.zhou on 2018-12-10.
 //  Copyright © 2018 mr.zhou. All rights reserved.
 //
 

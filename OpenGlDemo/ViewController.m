@@ -1,8 +1,8 @@
 //
 //  ViewController.m
-//  OpenGlDemo
+//  OpenGLDemo
 //
-//  Created by mr.zhou on 2018-12-09.
+//  Created by mr.zhou on 2018-12-10.
 //  Copyright © 2018 mr.zhou. All rights reserved.
 //
 
@@ -18,8 +18,11 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
 
-    
-
+    float vertices[] = {
+        -0.5f, -0.5f, 0.0f,
+        0.5f, -0.5f, 0.0f,
+        0.0f,  0.5f, 0.0f
+    };
 
 }
 
